@@ -3,4 +3,4 @@ test_github <- function(){
   
 }
 
-test()
+test_github()
